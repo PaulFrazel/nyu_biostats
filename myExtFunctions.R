@@ -1,0 +1,1 @@
+"norm_fxn" <- function(x){x/sum(x)}
